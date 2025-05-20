@@ -1,0 +1,5 @@
+{
+    "currency": "USD",
+    "max_guests": 4,
+    "features": ["wifi", "kitchen", "parking"]
+}
